@@ -32,19 +32,19 @@
         "src/utils/*"
       ],
       "@v/*": [
-        "src/view/*"
+        "src/views/*"
       ],
-      "config/*": [
-        "src/config/*"
+      "configs/*": [
+        "src/configs/*"
       ],
       "common/*": [
         "src/common/*"
       ],
-      "style/*": [
-        "src/style/*"
+      "styles/*": [
+        "src/styles/*"
       ],
-      "type/*": [
-        "src/type/*"
+      "types/*": [
+        "src/types/*"
       ],
     },
   },
